@@ -1,7 +1,7 @@
-package hs.com.logs {
+package logs {
 	import flash.net.URLLoader;
 	
-	import hs.com.logs.LOGSStatus;
+	import logs.LOGSStatus;
 	
 	public final class LOGS {
 		

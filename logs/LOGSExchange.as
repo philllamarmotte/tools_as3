@@ -1,4 +1,4 @@
-package hs.com.logs {
+package logs {
 	import com.adobe.serialization.json.JSON;
 	
 	import flash.errors.IOError;
@@ -9,7 +9,7 @@ package hs.com.logs {
 	import flash.net.URLRequestMethod;
 	import flash.utils.ByteArray;
 	
-	import hs.com.logs.LOGSStatus;
+	import logs.LOGSStatus;
 	
 	public class LOGSExchange extends URLLoader {
 		

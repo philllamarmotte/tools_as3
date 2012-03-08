@@ -1,4 +1,4 @@
-package hs.com.logs {
+package logs {
 	
 	public class LOGSStatus {
 		

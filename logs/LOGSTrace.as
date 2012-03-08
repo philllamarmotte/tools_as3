@@ -1,6 +1,6 @@
-package hs.com.logs {
+package logs {
 	
-	import hs.com.logs.LOGSStatus;
+	import logs.LOGSStatus;
 	
 	public class LOGSTrace {
 		
