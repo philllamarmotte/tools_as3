@@ -1,0 +1,6 @@
+# Code AS3
+# SDK Flex 4.5
+
+# required for method JSON in LOGSExchange class
+# > as3corelib.swc
+# git://github.com/mikechambers/as3corelib.git
